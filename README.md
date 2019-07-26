@@ -1,4 +1,4 @@
-# Resonacne Overlap
+# Resonance Overlap
 
 C code for calculation of trajectories in a Hamiltonian model of resonances overlap. 
 
